@@ -21,7 +21,7 @@
 //| Inputs                                                           |
 //+------------------------------------------------------------------+
 //--- inputs for expert
-
+// Temp comment from JRM
 ///Expert.mqh << required for this process. all the relevant info there.
 
 input string             Expert_Title                  ="Testing_V1"; // Document name
